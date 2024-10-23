@@ -1,0 +1,74 @@
+/* Place your CSS styles in this file */
+
+body {background-blend-mode: rgb(250, 237, 227), pink 50px;
+border: 7px solid rgb(252, 247, 240);
+border-radius: 70px;
+
+
+}
+
+h1 {
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+    color: rgb(228, 175, 175);
+    text-shadow:1px 1px 5px black, 2px 1px 25px rgb(252, 142, 170);
+}
+marquee 
+{ 
+    color: rgb(223, 156, 156);
+}
+
+ul {list-style-type: none;}
+li {display: inline;
+    text-align: left;
+
+}
+
+p {text-align: center;
+font-style: oblique;
+color: rgb(244, 138, 154);
+
+
+}
+
+mark {background: rgb(220, 218, 216)!important;
+      color:rgb(244, 138, 154);
+}
+
+
+
+.center { display: block;
+margin-left: auto;
+margin-right: auto;
+width: 40%;
+}
+
+ul {list-style-type: none;
+
+}
+
+li {display:inline;
+color: rgb(255, 221, 227);padding: 15px;
+background-color: rgb(244, 138, 154);
+opacity: 2;
+transition: opacity 0.5s;
+margin-bottom: 15px;
+border-radius: 50px;
+}
+
+a:link, a:visited{
+  background-color: rgb(254, 236, 236);
+  color: hotpink;
+  border: 2px solid rgb(244, 138, 154);
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 55px;
+ 
+}
+ a:hover, a:active {
+  background-color: hotpink;
+  color: white;
+}

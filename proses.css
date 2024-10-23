@@ -1,0 +1,18 @@
+ /* Place your CSS styles in this file */
+
+body {background-color: rgb(221, 221, 220);
+
+}
+
+h1 {
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+    color: rgb(50, 49, 49);
+}
+marquee 
+{
+    color: rgb(223, 156, 156);
+    font-family:serif;
+}
+
